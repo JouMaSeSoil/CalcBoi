@@ -1,5 +1,6 @@
 html{
 	margin: 10px;
+	 font-weight: bold;
 }
 
 h1{
@@ -37,6 +38,7 @@ h1{
 		background: #D9E4EC;
 		font-family:  Courier;
 		font-size: 2rem;
+		font-weight: bold;
 		text-decoration-color: #385E72;
 		border-style: none;
 		 }
